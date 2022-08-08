@@ -1,0 +1,1 @@
+mines:mines.exe:Mines:Mine-finding puzzle:Find all the mines without treading on any of them.

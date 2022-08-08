@@ -1,0 +1,17 @@
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/CMakeFiles/common.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/CMakeFiles/mines.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/CMakeFiles/mineobfusc.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/CMakeFiles/obfusc.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/CMakeFiles/puzzles.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/group.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/groupsolver.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/separate.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/slide.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/slidesolver.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/sokoban.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/numgame.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/path.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/edit_cache.dir
+C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug/unfinished/CMakeFiles/rebuild_cache.dir

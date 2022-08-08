@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4,
+						6,
+						8
+					]
+				},
+				{
+					"build" : "unfinished",
+					"jsonFile" : "directory-unfinished-Debug-3d68bc2063b69a3931b4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "unfinished",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						5,
+						7,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "puzzles",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "common::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-common-Debug-ed018ca67c24baeb8333.json",
+					"name" : "common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "group::@95a6bde2b9d1864374b1",
+					"jsonFile" : "target-group-Debug-055882b3507e0bf8c379.json",
+					"name" : "group",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "groupsolver::@95a6bde2b9d1864374b1",
+					"jsonFile" : "target-groupsolver-Debug-15dec416bba6591c3501.json",
+					"name" : "groupsolver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mineobfusc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mineobfusc-Debug-ee7417dc3bcfb6495167.json",
+					"name" : "mineobfusc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mines::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mines-Debug-ff4d15f446d5dd73e165.json",
+					"name" : "mines",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "numgame::@95a6bde2b9d1864374b1",
+					"jsonFile" : "target-numgame-Debug-c5ae564c8ff4a44e5711.json",
+					"name" : "numgame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "obfusc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-obfusc-Debug-a9d776eb3c6fc3d39cb7.json",
+					"name" : "obfusc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "path::@95a6bde2b9d1864374b1",
+					"jsonFile" : "target-path-Debug-5551129c91efef6bcfe4.json",
+					"name" : "path",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "puzzles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-puzzles-Debug-a624324dd8be3abb5852.json",
+					"name" : "puzzles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "separate::@95a6bde2b9d1864374b1",
+					"jsonFile" : "target-separate-Debug-8a6b74b7401458bb4ff4.json",
+					"name" : "separate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "slide::@95a6bde2b9d1864374b1",
+					"jsonFile" : "target-slide-Debug-e1715d50f6cfcd0795b3.json",
+					"name" : "slide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "slidesolver::@95a6bde2b9d1864374b1",
+					"jsonFile" : "target-slidesolver-Debug-aafd7c85dc7c67f0a602.json",
+					"name" : "slidesolver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sokoban::@95a6bde2b9d1864374b1",
+					"jsonFile" : "target-sokoban-Debug-fc0b75ce48fba965d010.json",
+					"name" : "sokoban",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f/cmake-build-debug",
+		"source" : "C:/WorkSpace/Minesweeper-Workspace/puzzles-20220128.c43a34f"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
